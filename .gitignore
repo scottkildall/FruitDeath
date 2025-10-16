@@ -1,0 +1,7 @@
+# Mac hidden files
+*.DS_Store
+
+# Ignore all MP4 and WAV files in all subdirectories
+**/*.mp4
+**/*.wav
+**/*.mov
